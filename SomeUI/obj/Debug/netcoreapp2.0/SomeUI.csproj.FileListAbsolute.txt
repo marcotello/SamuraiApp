@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SomeUI.deps.json
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SomeUI.runtimeconfig.json
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SomeUI.runtimeconfig.dev.json
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SomeUI.dll
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\netcoreapp2.0\SomeUI.csprojResolveAssemblyReference.cache
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\netcoreapp2.0\SomeUI.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\netcoreapp2.0\SomeUI.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\netcoreapp2.0\SomeUI.AssemblyInfo.cs
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SomeUI.pdb
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SamuraiApp.Data.dll
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SamuraiApp.Domain.dll
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SamuraiApp.Data.pdb
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\netcoreapp2.0\SamuraiApp.Domain.pdb
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\netcoreapp2.0\SomeUI.dll
+C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\netcoreapp2.0\SomeUI.pdb

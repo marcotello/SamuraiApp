@@ -1,7 +1,0 @@
-C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\SomeUI.exe.config
-C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\SomeUI.exe
-C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\bin\Debug\SomeUI.pdb
-C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.csprojResolveAssemblyReference.cache
-C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.csproj.CoreCompileInputs.cache
-C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.exe
-C:\Users\marco\Documents\Visual Studio 2017\Projects\SamuraiApp\SomeUI\obj\Debug\SomeUI.pdb
